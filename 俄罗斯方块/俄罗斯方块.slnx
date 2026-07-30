@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="俄罗斯方块/俄罗斯方块.vcxproj" Id="38de743f-769c-4688-9a69-42a072dac25f" />
+  <Project Path="俄罗斯方块.vcxproj" Id="38de743f-769c-4688-9a69-42a072dac25f" />
 </Solution>
